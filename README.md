@@ -66,6 +66,7 @@ Kitap okuma
 
 
 arayüz tasarımı : Şadin elfuzo
+
 veritabanı programlama : Şadin elfuzo
 
 
